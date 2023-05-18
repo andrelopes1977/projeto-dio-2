@@ -1,6 +1,3 @@
-# -*- mode: ruby -*-
-# vi: set ft=ruby  :
-
 machines = {
   "master" => {"memory" => "1024", "cpu" => "1", "ip" => "100", "image" => "bento/ubuntu-22.04"},
   "node01" => {"memory" => "1024", "cpu" => "1", "ip" => "101", "image" => "bento/ubuntu-22.04"},
